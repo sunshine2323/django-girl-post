@@ -53,8 +53,7 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'mysite.urls'
 
-TEMPLATES = [
-    {
+TEMPLATES =    {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [],
         'APP_DIRS': True,
@@ -124,6 +123,6 @@ STATIC_URL = '/static/'
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'sierra052690@gmail.com'
-EMAIL_HOST_PASSWORD = 'Mochi526526'
+EMAIL_HOST_PASSWORD = 'Wymhbdhxf052690'
 EMAIL_PORT = 587
 
